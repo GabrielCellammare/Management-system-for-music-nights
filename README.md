@@ -1,5 +1,9 @@
 # Management system for music nights
 
+**Bachelor's degree program "Computer Science and Technology for Software Production"**
+
+Development of a C application for the subject "Computer lab"
+
 *The Music Evenings Management System is software that is responsible for selling tickets for music events at venues or theaters in Bari, keeping track of the artist or group performing, the venue, the row, the number and cost of the seat booked*
 
 Each user is registered by: 
